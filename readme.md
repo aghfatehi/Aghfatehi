@@ -42,6 +42,8 @@ Microservice architecture starter kit with authentication and API gateway
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aghfatehi&show_icons=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aghfatehi&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aghfatehi&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aghfatehi&theme=default)
+
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aghfatehi&theme=default)
