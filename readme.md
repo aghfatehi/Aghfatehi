@@ -40,6 +40,7 @@ Microservice architecture starter kit with authentication and API gateway
 - LinkedIn: https://www.linkedin.com/in/aghfatehi/
 - website: https://fsoftdev.com
 
+<!-- GitHub Stats Section
 ## GitHub Stats
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aghfatehi&theme=default)
@@ -47,3 +48,5 @@ Microservice architecture starter kit with authentication and API gateway
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aghfatehi&theme=default)
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aghfatehi&theme=default)
+
+End Future Section -->
