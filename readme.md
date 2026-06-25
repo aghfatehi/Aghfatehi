@@ -16,6 +16,8 @@ PhD in Software Engineering with experience in:
 
 - PHP / Laravel
 - Python / Django
+- Dot Net
+- Node-js
 - JavaScript
 - PostgreSQL
 - MySQL
